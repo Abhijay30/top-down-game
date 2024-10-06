@@ -134,16 +134,16 @@ image.src="./imgs/finial map.png";
 
 //player image
 const playerDownImage=new Image();
-playerDownImage.src="/imgs/chardown.png";
+playerDownImage.src="./imgs/chardown.png";
 
 const playerUpImage=new Image();
-playerUpImage.src="/imgs/charup.png";
+playerUpImage.src="./imgs/charup.png";
 
 const playerLeftImage=new Image();
-playerLeftImage.src="/imgs/charleft.png";
+playerLeftImage.src="./imgs/charleft.png";
 
 const playerRightImage=new Image();
-playerRightImage.src="/imgs/charright.png";
+playerRightImage.src="./imgs/charright.png";
 
 //creating sprite class for game sprites
 class Sprite{
