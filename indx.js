@@ -128,7 +128,7 @@ collisionsMap.forEach((row,i)=>{
 
 //background image
 const image=new Image();
-image.src="/imgs/finial map.png";
+image.src="./imgs/finial map.png";
 
 
 
